@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Putri ESP</string>
+    <string name="seekbar_character_view">Character View</string>
+    <string name="channel_link">Putri Mod</string>
+    <string name="start_cheat">Start Cheat</string>
+    <string name="stop_cheat">Stop Cheat</string>
+    <string name="is_name"> Name</string> 
+    <string name="is_distance"> Distance</string>
+   <string name="is_line"> Line</string>
+    <string name="is_box"> Box</string>
+    <string name="is_back"> Alert 360</string>
+    <string name="is_health"> Health</string>
+    <string name="is_skeleton"> Skeleton</string>
+    <string name="is_weapon"> Weapon</string>
+    <string name="is_throwables"> Throwables</string>
+     <string name="adjustment_items">    ESP Items Adjustment</string>
+    <string name="root_nonroot">Execute Mode</string>
+    <string name="oparate_by">PUBG Bit</string>
+    <string name="pubg_version">PUBG Mobile Version</string>
+    <string name="duration">Unlimited</string>  
+</resources>
